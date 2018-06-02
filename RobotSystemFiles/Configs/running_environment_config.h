@@ -1,0 +1,18 @@
+/*
+ * running_environment_config.h
+ *
+ *  Created on: 2018年6月1日
+ *      Author: xin
+ */
+
+#ifndef ROBOTSYSTEMFILES_CONFIGS_RUNNING_ENVIRONMENT_CONFIG_H_
+#define ROBOTSYSTEMFILES_CONFIGS_RUNNING_ENVIRONMENT_CONFIG_H_
+
+// define running mcu type
+#define TMS320F28335 (0)
+
+#define RUNNING_ENVIRONMENT_MCU_TYPE (TMS320F28335)
+
+
+
+#endif /* ROBOTSYSTEMFILES_CONFIGS_RUNNING_ENVIRONMENT_CONFIG_H_ */

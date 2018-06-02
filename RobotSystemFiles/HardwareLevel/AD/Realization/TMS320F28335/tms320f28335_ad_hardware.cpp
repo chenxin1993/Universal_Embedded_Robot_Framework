@@ -5,9 +5,9 @@
  *      Author: xin-FFTAI
  */
 
-#include <RobotSystemFiles/HardwareLevel/AD/Realization/TMS320F28335/tms320f28335_ad_hardware.h>
-/Realization/TMS320F28335/tms320f28335_ad_hardware.h>
+#ifdef TMS320F28335
 
+#include "tms320f28335_ad_hardware.h"
 
-
+#endif
 

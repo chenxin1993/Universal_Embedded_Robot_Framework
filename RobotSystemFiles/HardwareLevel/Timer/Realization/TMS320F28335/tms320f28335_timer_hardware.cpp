@@ -5,10 +5,9 @@
  *      Author: xin
  */
 
-#include <RobotSystemFiles/HardwareLevel/Timer/Realization/TMS320F28335/tms320f28335_timer_hardware.h>
-/Realization/TMS320F28335/tms320f28335_timer_hardware.h>
-
 #ifdef TMS320F28335
+
+#include "tms320f28335_timer_hardware.h"
 
 #include "DSP2833x_Device.h"    // DSP2833x Headerfile Include File
 #include "DSP2833x_Examples.h" 	// DSP2833x Examples Include File

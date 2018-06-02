@@ -6,7 +6,6 @@
  */
 
 #include <RobotSystemFiles/SensorLevel/SensorModel/SensorInterfaceHardware.h>
-sorModel/SensorInterfaceHardware.h>
 #include "DSP2833x_Device.h"
 
 /*******************************************

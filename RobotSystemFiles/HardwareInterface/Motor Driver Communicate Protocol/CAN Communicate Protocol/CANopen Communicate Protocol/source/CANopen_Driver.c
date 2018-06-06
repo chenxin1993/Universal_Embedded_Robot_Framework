@@ -1,9 +1,9 @@
 
-#include <RobotSystemFiles/HardwareInterface/Motor Driver Communicate Protocol/CAN Communicate Protocol/CANopen Communicate Protocol/include/CO_DataModel.h>
-#include <RobotSystemFiles/HardwareInterface/Motor Driver Communicate Protocol/CAN Communicate Protocol/CANopen Communicate Protocol/include/DataParamPreDefine.h>
-#include <RobotSystemFiles/HardwareInterface/Motor Driver Communicate Protocol/CAN Communicate Protocol/CANopen Communicate Protocol/include/FuncDeclaration.h>
-#include <RobotSystemFiles/HardwareInterface/Motor Driver Communicate Protocol/CAN Communicate Protocol/CANopen Communicate Protocol/include/MessageModel.h>
-#include "../../Includes/DSP2833x_Device.h"
+#include "../include/CO_DataModel.h"
+#include "../include/DataParamPreDefine.h"
+#include "../include/FuncDeclaration.h"
+#include "../include/MessageModel.h"
+#include "DSP2833x_Device.h"
 
 /************************************
  *

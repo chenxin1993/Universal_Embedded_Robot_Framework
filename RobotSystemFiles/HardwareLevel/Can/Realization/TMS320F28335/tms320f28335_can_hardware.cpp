@@ -5,7 +5,7 @@
  *      Author: xin
  */
 
-#include <RobotSystemFiles/HardwareLevel/Can/Realization/TMS320F28335/tms320f28335_can_hardware.h>
+#include "tms320f28335_can_hardware.h"
 
 #ifdef TMS320F28335
 

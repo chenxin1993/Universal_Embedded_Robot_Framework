@@ -11,9 +11,9 @@
 struct struct_CO_Data;
 typedef struct struct_CO_Data CO_Data;
 
-#include "../../../../../../RobotSystemFiles/HardwareInterface/Motor Driver Communicate Protocol/CAN Communicate Protocol/CANopen Communicate Protocol/include/DataParamPreDefine.h"
-#include "../../../../../../RobotSystemFiles/HardwareInterface/Motor Driver Communicate Protocol/CAN Communicate Protocol/CANopen Communicate Protocol/include/TestMasterStruct.h"
-#include "../../../../../../RobotSystemFiles/HardwareInterface/Motor Driver Communicate Protocol/CAN Communicate Protocol/CANopen Communicate Protocol/include/SDOModel.h"
+#include "DataParamPreDefine.h"
+#include "TestMasterStruct.h"
+#include "SDOModel.h"
 
 /*********************************
  *

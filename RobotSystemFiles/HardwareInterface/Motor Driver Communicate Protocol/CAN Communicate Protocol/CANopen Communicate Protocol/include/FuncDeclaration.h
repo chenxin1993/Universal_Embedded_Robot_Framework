@@ -8,8 +8,8 @@
 #ifndef __FUNCDECLARATION_H__
 #define __FUNCDECLARATION_H__
 
-#include "../../../../../../RobotSystemFiles/HardwareInterface/Motor Driver Communicate Protocol/CAN Communicate Protocol/CANopen Communicate Protocol/include/CO_DataModel.h"
-#include "../../../../../../RobotSystemFiles/HardwareInterface/Motor Driver Communicate Protocol/CAN Communicate Protocol/CANopen Communicate Protocol/include/MessageModel.h"
+#include "CO_DataModel.h"
+#include "MessageModel.h"
 
 //-------------------------- CANopen_Driver ---------------------------
 void CANopenDriver_InitCanOpen(void);

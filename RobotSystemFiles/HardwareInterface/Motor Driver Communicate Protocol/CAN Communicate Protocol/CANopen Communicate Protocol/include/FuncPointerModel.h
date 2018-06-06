@@ -8,7 +8,7 @@
 #ifndef FUNCPOINTERMODEL_H_
 #define FUNCPOINTERMODEL_H_
 
-#include "../../../../../../RobotSystemFiles/HardwareInterface/Motor Driver Communicate Protocol/CAN Communicate Protocol/CANopen Communicate Protocol/include/CO_DataModel.h"
+#include "CO_DataModel.h"
 
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ SYNC ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 typedef void (*post_sync_t)(CO_Data * d);

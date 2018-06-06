@@ -1,5 +1,5 @@
 
-#include <RobotSystemFiles/HardwareInterface/Motor Driver Communicate Protocol/CAN Communicate Protocol/CANopen Communicate Protocol/include/TestMasterStruct.h>
+#include "../include/TestMasterStruct.h"
 
 struct FUNCCODE Func;
 struct FUNCCODE FuncInit={

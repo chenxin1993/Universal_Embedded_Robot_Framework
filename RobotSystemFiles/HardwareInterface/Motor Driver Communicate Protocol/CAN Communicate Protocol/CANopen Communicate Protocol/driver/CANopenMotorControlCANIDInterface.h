@@ -8,11 +8,11 @@
 #ifndef CANOPENMOTORCONTROLCANIDINTERFACE_H_
 #define CANOPENMOTORCONTROLCANIDINTERFACE_H_
 
-#include "../../../../../../RobotSystemFiles/HardwareInterface/Motor Driver Communicate Protocol/CAN Communicate Protocol/CANopen Communicate Protocol/driver/CAN_OPEN_OBJECT_DICTIONARY_INDEX.h"
-#include "../../../../../../RobotSystemFiles/HardwareInterface/Motor Driver Communicate Protocol/CAN Communicate Protocol/CANopen Communicate Protocol/include/CO_DataModel.h"
-#include "../../../../../../RobotSystemFiles/HardwareInterface/Motor Driver Communicate Protocol/CAN Communicate Protocol/CANopen Communicate Protocol/include/DataParamPreDefine.h"
-#include "../../../../../../RobotSystemFiles/HardwareInterface/Motor Driver Communicate Protocol/CAN Communicate Protocol/CANopen Communicate Protocol/include/FuncDeclaration.h"
-#include "../../../../../../RobotSystemFiles/HardwareInterface/Motor Driver Communicate Protocol/CAN Communicate Protocol/CANopen Communicate Protocol/include/MessageModel.h"
+#include "CAN_OPEN_OBJECT_DICTIONARY_INDEX.h"
+#include "../include/CO_DataModel.h"
+#include "../include/DataParamPreDefine.h"
+#include "../include/FuncDeclaration.h"
+#include "../include/MessageModel.h"
 
 struct CANInterface {
 

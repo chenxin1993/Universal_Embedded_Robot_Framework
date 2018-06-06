@@ -11,8 +11,8 @@
 struct struct_s_transfer;
 typedef struct struct_s_transfer s_transfer;
 
-#include "../../../../../../RobotSystemFiles/HardwareInterface/Motor Driver Communicate Protocol/CAN Communicate Protocol/CANopen Communicate Protocol/include/DataParamPreDefine.h"
-#include "../../../../../../RobotSystemFiles/HardwareInterface/Motor Driver Communicate Protocol/CAN Communicate Protocol/CANopen Communicate Protocol/include/FuncPointerModel.h"
+#include "DataParamPreDefine.h"
+#include "FuncPointerModel.h"
 
 struct struct_s_transfer {
   UNS8           CliServNbr; /**< The index of the SDO client / server in our OD minus 0x1280 / 0x1200 */

@@ -8,7 +8,7 @@
 #ifndef TIMERSTRUCT_H_
 #define TIMERSTRUCT_H_
 
-#include "../../../../../../RobotSystemFiles/HardwareInterface/Motor Driver Communicate Protocol/CAN Communicate Protocol/CANopen Communicate Protocol/include/CO_DataModel.h"
+#include "CO_DataModel.h"
 
 typedef void (*TimerCallback_t)(CO_Data* d, UNS32 id);
 
